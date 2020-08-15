@@ -13,7 +13,6 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://rubyonrails.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
 
-![Mrinal's github stats](https://github-readme-stats.vercel.app/api?username=getmrinal&show_icons=true&line_height=30)
 
 
 ⭐️ From [Mrinal](https://github.com/getmrinal)
