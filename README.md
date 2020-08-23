@@ -1,5 +1,3 @@
-### Mrinal 👨‍💻
-
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mrinal626)](https://twitter.com/mrinal626)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getmrinal/)](https://www.linkedin.com/in/getmrinal/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9554728/mrinal)](https://stackoverflow.com/users/9554728/mrinal)
