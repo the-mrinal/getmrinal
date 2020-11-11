@@ -7,7 +7,7 @@
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="25" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
