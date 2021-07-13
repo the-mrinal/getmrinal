@@ -3,7 +3,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9554728/mrinal)](https://stackoverflow.com/users/9554728/mrinal)
 [![GitHub followers](https://img.shields.io/github/followers/getmrinal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/getmrinal?tab=followers)
 
-**💼 Currently working as:** Software Engineer at <a href="https://auzmor.com/" target="_blank"><b><a href="https://auzmor.com/" target="_blank"><img height="15" src="https://2p35jz2c2c4r4bl04h4dg7s1-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Group-59.svg"></b></a>
+**💼 Currently working as:** Software Engineer II at <a href="https://auzmor.com/" target="_blank"><b><a href="https://auzmor.com/" target="_blank"><img height="15" src="https://2p35jz2c2c4r4bl04h4dg7s1-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Group-59.svg"></b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
